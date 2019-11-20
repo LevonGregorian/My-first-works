@@ -1,0 +1,19 @@
+.invisible {
+	display:none;
+}
+#background { /*Фон страницы*/
+	background-image: url(https://images-na.ssl-images-amazon.com/images/I/91MteSqsrJL.jpg); 
+	background-attachment: fixed; 
+	background-repeat: repeat-y, repeat-y; 
+	background-position: center, center;
+}
+#Podval { /*Подвал*/
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+.table { /*Оформление таблиц*/
+	background-color: white; 
+	margin: auto; 
+	text-align: center; 
+}
